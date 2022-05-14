@@ -1,0 +1,25 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+.text-item {
+  padding-left: 0px;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+
+.text {
+  color: #475569;
+}
+
+.arrow {
+  width: 20px;
+}
+
+.btn {
+  background-color: transparent;
+  border-width: 0px;
+}
